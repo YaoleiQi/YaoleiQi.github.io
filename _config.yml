@@ -2,7 +2,7 @@
 title: Yaolei Qi
 position: Ph.D. Student
 affiliation: Southeast University
-affiliation_link: https://seu.edu.cn/
+affiliation_link: 
 affiliation_logo: 
 email: Yaolei710 (at) foxmail.com
 
@@ -19,15 +19,15 @@ enable_last_update: false
 
 # Links
 google_scholar: https://scholar.google.com/citations?user=43lNKkcAAAAJ&hl=zh-CN
-cv_link: ./assets/files/YLQi_CV
+cv_link: https://github.com/YaoleiQi/
 github_link: https://github.com/YaoleiQi/
 linkedin: https://github.com/YaoleiQi/
 twitter: https://github.com/YaoleiQi/
 
 # Images 
 avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./html_source_file/assets/img/favicon.png
+favicon_dark: ./html_source_file/assets/img/favicon-dark.png
 
 # Footnotes
 footnote: Feel free to use my website's source code.
