@@ -1,18 +1,18 @@
 main:
 
   - title: Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular Structure Segmentation
-    authors: <strong>Yaolei Qi</strong>, Yuting He, Xiaoming Qi, Yuan Zhang, Guanyu Yang
+    authors: <strong>Yaolei Qi</strong>, [Yuting He](https://yutinghe-list.github.io/) Xiaoming Qi, Yuan Zhang, [Guanyu Yang](https://cse.seu.edu.cn/2019/0103/c23024a257233/page.htm/)
     conference_short: ICCV
-    conference: Under review.
+    conference: International Conference  on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: ./publication/2023_ICCV/DSCNet.pdf
+    code: https://github.com/YaoleiQi/DSCNet
     bibtex: ./publication/2023_ICCV/DSCNet.txt
     image: ./publication/2023_ICCV/DSCNet.png
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+  - title: Partial Vessels Annotation-based Coronary Artery Segmentation with Self-training and Prototype Learning
+    authors: Zheng Zhang*, Xiaolei Zhang*, <strong>Yaolei Qi</strong>, [Guanyu Yang](https://cse.seu.edu.cn/2019/0103/c23024a257233/page.htm/) (*Equal contribution) 
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: ./publication/2023_MICCAI/PVA.pdf 
     code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: https://img.yliu.me/teaser/miccai2023.png
-    notes: Early Accept
+    bibtex: ./publication/2023_MICCAI/PVA.txt
+    image: ./publication/2023_MICCAI/PVA.jpg
