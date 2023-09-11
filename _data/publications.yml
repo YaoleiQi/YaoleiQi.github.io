@@ -18,7 +18,7 @@ main:
     bibtex: ./publication/2023_MICCAI/PVA.txt
     image: ./publication/2023_MICCAI/PVA.jpg
     
-  - title: Examinee Examiner Network: Weakly Supervised Accurate Coronary Lumen Segmentation Using Centerline Constraint
+  - title: Examinee
     authors: Zheng Zhang*, Xiaolei Zhang*, <strong>Yaolei Qi</strong>, Guanyu Yang (*Equal contribution) 
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
