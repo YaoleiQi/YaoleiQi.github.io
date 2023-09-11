@@ -17,11 +17,10 @@ main:
     bibtex: ./publication/2023_MICCAI/PVA.txt
     image: ./publication/2023_MICCAI/PVA.jpg
   - title: Examinee-Examiner Network: Weakly Supervised Accurate Coronary Lumen Segmentation Using Centerline Constraint
-    authors: <strong>Yaolei Qi</strong>*, Han Xu*, Guanyu Yang (*Equal contribution) 
+    authors: <strong>Yaolei Qi</strong>, Han Xu, Guanyu Yang (*Equal contribution) 
     conference_short: TIP
     conference: IEEE Transactions on Image Processing <strong>(TIP)</strong>, Volume 30, 2021.
     pdf: ./publication/2021_TIP/EE_Net.pdf
     code: https://github.com/YaoleiQi/Examinee-Examiner-Network
     bibtex: ./publication/2021_TIP/EE_Net.txt
     image: ./publication/2021_TIP/EE_Net.png
-
