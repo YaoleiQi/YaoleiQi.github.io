@@ -1,15 +1,15 @@
 # Basic Information 
-title: Yaoyao Liu
-position: Postdoctoral Fellow
-affiliation: Johns Hopkins University
-affiliation_link: https://cs.jhu.edu/
-affiliation_logo: ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
-email: yliu538 (at) jhu.edu
+title: Yaolei Qi
+position: Ph.D. Student
+affiliation: Southeast University
+affiliation_link: https://seu.edu.cn/
+affiliation_logo: ./assets/img/Southeast_University.png
+email: Yaolei710 (at) foxmail.com
 
 # Search Engine Optimization (SEO)
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-canonical: https://www.cs.jhu.edu/~yyliu/
-description: Yaoyao Liu is a postdoctoral fellow at Johns Hopkins University. His research lies in meta-learning, incremental learning, and image generation.
+keywords: yaolei qi
+canonical: 
+description: Yaolei Qi is a Ph.D. student at Southeast University. His research lies in medical image processing, network design, tubular structure analysis and image segmentation.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: true
