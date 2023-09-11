@@ -10,9 +10,6 @@ main:
   #- title: "Talks"
   #  url: ./#invited-talks
 
-- title: "Publications"
-  url: ./#teaching
-
   - title: "Publications"
     url: ./#publications
 
