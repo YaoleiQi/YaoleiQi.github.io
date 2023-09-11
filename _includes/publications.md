@@ -48,14 +48,6 @@
 
 {% endfor %}
 
-<li>
-
-  </script>
-    </div>
-  </div>
-</div>
-</li>
-
 </ol>
 </div>
 
