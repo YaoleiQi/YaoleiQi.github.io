@@ -1,8 +1,8 @@
 main:
 
-  - title: Adding 3D Geometry Control to Diffusion Models
-    authors: Wufei Ma*, Qihao Liu*, Jiahao Wang*, Angtian Wang, <strong>Yaoyao Liu<sup>#</sup></strong>, Adam Kortylewski, Alan Yuille (<sup>#</sup>Corresponding author)
-    conference_short: Preprint
+  - title: Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular Structure Segmentation
+    authors: <strong>Yaolei Qi</strong>, Yuting He, Xiaoming Qi, Yuan Zhang, Guanyu Yang
+    conference_short: ICCV
     conference: Under review.
     pdf: ./publication/2023_ICCV/DSCNet.pdf
     bibtex: ./publication/2023_ICCV/DSCNet.txt
