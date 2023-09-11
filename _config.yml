@@ -19,7 +19,7 @@ enable_last_update: false
 
 # Links
 google_scholar: https://scholar.google.com/citations?user=43lNKkcAAAAJ&hl=zh-CN
-cv_link: ./asserts/files/YLQi_CV.pdf
+cv_link: https://github.com/YaoleiQi/
 github_link: https://github.com/YaoleiQi/
 linkedin: https://github.com/YaoleiQi/
 twitter: https://github.com/YaoleiQi/
@@ -30,7 +30,7 @@ favicon: ./html_source_file/assets/img/favicon.png
 favicon_dark: ./html_source_file/assets/img/favicon-dark.png
 
 # Footnotes
-footnote: Thanks yaoyao-liu for his very exquisite template, feel free to use my website's source code.
+footnote: Thanks yaoyao-liu for his very exquisite template.
 footnote_link: https://github.com/yaoyao-liu/minimal-light
 
 # Analytics
