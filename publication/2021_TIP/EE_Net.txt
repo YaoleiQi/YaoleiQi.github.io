@@ -1,0 +1,23 @@
+@article{DBLP:journals/tip/QiXHLLKCSYT21,
+  author       = {Yaolei Qi and
+                  Han Xu and
+                  Yuting He and
+                  Guanyu Li and
+                  Zehang Li and
+                  Youyong Kong and
+                  Jean{-}Louis Coatrieux and
+                  Huazhong Shu and
+                  Guanyu Yang and
+                  Shengxian Tu},
+  title        = {Examinee-Examiner Network: Weakly Supervised Accurate Coronary Lumen
+                  Segmentation Using Centerline Constraint},
+  journal      = {{IEEE} Trans. Image Process.},
+  volume       = {30},
+  pages        = {9429--9441},
+  year         = {2021},
+  url          = {https://doi.org/10.1109/TIP.2021.3125490},
+  doi          = {10.1109/TIP.2021.3125490},
+  timestamp    = {Wed, 15 Dec 2021 10:30:44 +0100},
+  biburl       = {https://dblp.org/rec/journals/tip/QiXHLLKCSYT21.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

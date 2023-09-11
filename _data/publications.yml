@@ -1,7 +1,7 @@
 main:
 
   - title: Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular Structure Segmentation
-    authors: <strong>Yaolei Qi</strong>, [Yuting He](https://yutinghe-list.github.io/) Xiaoming Qi, Yuan Zhang, [Guanyu Yang](https://cse.seu.edu.cn/2019/0103/c23024a257233/page.htm/)
+    authors: <strong>Yaolei Qi</strong>, Yuting He Xiaoming Qi, Yuan Zhang, Guanyu Yang
     conference_short: ICCV
     conference: International Conference  on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: ./publication/2023_ICCV/DSCNet.pdf
@@ -9,10 +9,18 @@ main:
     bibtex: ./publication/2023_ICCV/DSCNet.txt
     image: ./publication/2023_ICCV/DSCNet.png
   - title: Partial Vessels Annotation-based Coronary Artery Segmentation with Self-training and Prototype Learning
-    authors: Zheng Zhang*, Xiaolei Zhang*, <strong>Yaolei Qi</strong>, [Guanyu Yang](https://cse.seu.edu.cn/2019/0103/c23024a257233/page.htm/) (*Equal contribution) 
+    authors: Zheng Zhang*, Xiaolei Zhang*, <strong>Yaolei Qi</strong>, Guanyu Yang (*Equal contribution) 
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: ./publication/2023_MICCAI/PVA.pdf 
-    code: https://github.com/MrGiovanni/ContinualLearning
+    pdf: ./publication/2023_MICCAI/PVA.pdf
+    code: https://github.com/ZhangZ7112/PVA-CAS
     bibtex: ./publication/2023_MICCAI/PVA.txt
     image: ./publication/2023_MICCAI/PVA.jpg
+  - title: Examinee-Examiner Network: Weakly Supervised Accurate Coronary Lumen Segmentation Using Centerline Constraint
+    authors: <strong>Yaolei Qi</strong>*, Han Xu*, Yuting He, Guanyu Li, Zehang Li, Youyong Kong, Jean-Louis Coatrieux, Huazhong Shu, Guanyu Yang, Shengxian Tu(*Equal contribution) 
+    conference_short: TIP
+    conference: IEEE Transactions on Image Processing <strong>(TIP)</strong>, Volume 30, 2021.
+    pdf: ./publication/2021_TIP/EE_Net.pdf
+    code: https://github.com/YaoleiQi/Examinee-Examiner-Network
+    bibtex: ./publication/2021_TIP/EE_Net.txt
+    image: ./publication/2021_TIP/EE_Net.png
