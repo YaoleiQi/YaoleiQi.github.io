@@ -3,10 +3,10 @@
 <h2 style="margin: 60px 0px 10px;">Awards</h2>
 
 <ul>
-  <li>
-    Head Teaching Assistant, <a href="https://www.mpi-inf.mpg.de/hlcv">High-Level Computer Vision</a> at <a href="https://www.uni-saarland.de/">Universität des Saarlandes</a>, 2022
-  </li>
-  <li>
-    Teaching Assistant, <a href="https://www.mpi-inf.mpg.de/hlcv">High-Level Computer Vision</a> at <a href="https://www.uni-saarland.de/">Universität des Saarlandes</a>, 2021
-  </li>
+  <li>2022，Southeast University First-Class Academic Scholarship </li>
+  <li>2021，Southeast University First-Class Academic Scholarship </li>  
+  <li>2020，Southeast University First-Class Academic Scholarship </li>
+  <li>2019，Excellent Post-Graduate，Jiangsu</li>
+  <li>2017，National Third Prize and Provincial Special Prize in Computer Design Competition</li>
 </ul>
+
