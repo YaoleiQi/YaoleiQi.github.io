@@ -6,7 +6,7 @@
 <br />
 <strong>Lab Location:</strong> Sipailou 2
 <br />
-<strong>Email:</strong> <email>Yaolei710 (at) foxmai.com</email>
+<strong>Email:</strong> <email>Yaolei710 (at) foxmail.com</email>
 <br />
 <strong>Phone:</strong> (86) 15051877886</p>
 

@@ -7,7 +7,7 @@ main:
     pdf: ./publication/2023_ICCV/DSCNet.pdf
     code: https://github.com/YaoleiQi/DSCNet
     bibtex: ./publication/2023_ICCV/DSCNet.txt
-    image: ./publication/2023_ICCV/DSCNet.png
+    image: ./publication/2023_ICCV/DSCNet.jpg
   - title: Partial Vessels Annotation-based Coronary Artery Segmentation with Self-training and Prototype Learning
     authors: Zheng Zhang*, Xiaolei Zhang*, <strong>Yaolei Qi</strong>, Guanyu Yang (*Equal contribution) 
     conference_short: MICCAI
@@ -23,4 +23,4 @@ main:
     pdf: ./publication/2021_TIP/EENet.pdf
     code: https://github.com/YaoleiQi/Examinee-Examiner-Network
     bibtex: ./publication/2021_TIP/EENet.txt
-    image: ./publication/2021_TIP/EENet.png
+    image: ./publication/2021_TIP/EENet.jpg
