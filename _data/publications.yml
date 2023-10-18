@@ -9,9 +9,6 @@ main:
     page: ./pub_homepage/2023_ICCV/index.html
     bibtex: ./publication/2023_ICCV/DSCNet.txt
     image: ./publication/2023_ICCV/DSCNet.jpg
-    
-    [![GitHub](https://img.shields.io/github/stars/YaoleiQi/DSCNet)](https://github.com/YaoleiQi/DSCNet)
-    
   - title: Partial Vessels Annotation-based Coronary Artery Segmentation with Self-training and Prototype Learning
     authors: Zheng Zhang*, Xiaolei Zhang*, <strong>Yaolei Qi</strong>, Guanyu Yang (*Equal contribution) 
     conference_short: MICCAI
@@ -20,7 +17,6 @@ main:
     code: https://github.com/ZhangZ7112/PVA-CAS
     bibtex: ./publication/2023_MICCAI/PVA.txt
     image: ./publication/2023_MICCAI/PVA.jpg
-    
   - title: Examinee Examiner Network Weakly Supervised Accurate Coronary Lumen Segmentation Using Centerline Constraint
     authors: <strong>Yaolei Qi</strong>*, Han Xu*,  Yuting He, Guanyu Li, Zehang Li, Youyong Kong, Jean-Louis Coatrieux, Huazhong Shu, Guanyu Yang, Shengxian Tu (*Equal contribution) 
     conference_short: TIP
