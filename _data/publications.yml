@@ -5,6 +5,7 @@ main:
     conference_short: ICCV
     conference: International Conference  on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: ./publication/2023_ICCV/DSCNet.pdf
+    pdf: ./publication/2023_ICCV/DSCNet_Chinese.pdf
     code: https://github.com/YaoleiQi/DSCNet
     page: ./pub_homepage/2023_ICCV/index.html
     bibtex: ./publication/2023_ICCV/DSCNet.txt
