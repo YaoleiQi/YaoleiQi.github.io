@@ -5,11 +5,12 @@ main:
     conference_short: ICCV
     conference: International Conference  on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: ./publication/2023_ICCV/DSCNet.pdf
-    pdf: ./publication/2023_ICCV/DSCNet_Chinese.pdf
+    # pdf: ./publication/2023_ICCV/DSCNet_Chinese.pdf
     code: https://github.com/YaoleiQi/DSCNet
     page: ./pub_homepage/2023_ICCV/index.html
     bibtex: ./publication/2023_ICCV/DSCNet.txt
     image: ./publication/2023_ICCV/DSCNet.jpg
+    others: '<a href="https://github.com/YaoleiQi/DSCNet" target="_blank" rel="noopener"><strong> <i style="color:#e74d3c; font-weight:600" id="githubstars_manets"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a><script>githubStars("yaoyao-liu/class-incremental-learning", function(stars) {var startext = document.getElementById("githubstars_manets"); startext.innerHTML=stars;});</script>'
   - title: Partial Vessels Annotation-based Coronary Artery Segmentation with Self-training and Prototype Learning
     authors: Zheng Zhang*, Xiaolei Zhang*, <strong>Yaolei Qi</strong>, Guanyu Yang (*Equal contribution) 
     conference_short: MICCAI
