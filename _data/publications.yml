@@ -9,7 +9,7 @@ main:
     # page: ./pub_homepage/2023_ICCV/index.html
     bibtex: ./publication/2023_JBHI/STANet.txt
     image: ./publication/2023_JBHI/STANet.jpg
-    Others: 'Early Access'
+    Notes: Early Access
   - title: Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular Structure Segmentation
     authors: <strong>Yaolei Qi</strong>, Yuting He Xiaoming Qi, Yuan Zhang, Guanyu Yang
     conference_short: ICCV

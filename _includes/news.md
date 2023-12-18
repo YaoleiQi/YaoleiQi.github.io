@@ -10,7 +10,7 @@
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 
 <div id="newsmore" style="display:none"> 
-  <li><strong>[Nov. 2021]</strong> Our paper about <a href="https://ieeexplore.ieee.org/document/9611074">coronary segmentation</a> is accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83/">TIP 2021</a>.</li>
+  <li><strong>[Nov. 2021]</strong> Our paper about <a href="https://ieeexplore.ieee.org/document/9611074">coronary segmentation</a> is accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83/">IEEE TIP 2021</a>.</li>
 </div>
 
 </ul>
