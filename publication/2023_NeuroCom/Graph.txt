@@ -1,0 +1,9 @@
+@article{wang2023neighborhood,
+  title={Neighborhood contrastive representation learning for attributed graph clustering},
+  author={Wang, Tong and Wu, Junhua and Qi, Yaolei and Qi, Xiaoming and Guan, Juwei and Zhang, Yuan and Yang, Guanyu},
+  journal={Neurocomputing},
+  volume={562},
+  pages={126880},
+  year={2023},
+  publisher={Elsevier}
+}

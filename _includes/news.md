@@ -4,6 +4,7 @@
 
 <ul>
 <li><strong>[Dec. 2023]</strong> Our paper about <a href="https://ieeexplore.ieee.org/document/10339841/">spatio temporal</a> is accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020/">IEEE JBHI 2023</a>.</li>
+<li><strong>[Dec. 2023]</strong> Our paper about <a href="https://ieeexplore.ieee.org/document/10339841/">graph clustering</a> is accepted to <a href="https://www.sciencedirect.com/journal/neurocomputing/">Neurocomputing</a>.</li>
 <li><strong>[Jul. 2023]</strong> Our paper about <a href="https://arxiv.org/pdf/2307.08388.pdf">network design</a> is accepted to <a href="https://iccv2023.thecvf.com/">ICCV 2023</a>.</li>
 <li><strong>[May 2023]</strong> Our paper about <a href="https://arxiv.org/pdf/2307.04472.pdf">partial annotation</a> is accepted to <a href="https://conferences.miccai.org/2023/en/">MICCAI 2023</a>.</li>
 
