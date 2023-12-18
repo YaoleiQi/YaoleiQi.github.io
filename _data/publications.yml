@@ -9,6 +9,7 @@ main:
     # page: ./pub_homepage/2023_ICCV/index.html
     bibtex: ./publication/2023_JBHI/STANet.txt
     image: ./publication/2023_JBHI/STANet.jpg
+    Notes: 'Early Access'
   - title: Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular Structure Segmentation
     authors: <strong>Yaolei Qi</strong>, Yuting He Xiaoming Qi, Yuan Zhang, Guanyu Yang
     conference_short: ICCV
@@ -19,7 +20,6 @@ main:
     page: ./pub_homepage/2023_ICCV/index.html
     bibtex: ./publication/2023_ICCV/DSCNet.txt
     image: ./publication/2023_ICCV/DSCNet.jpg
-    Notes: ./pub_homepage/2023_ICCV/index.html
     others: '<a href="https://github.com/YaoleiQi/DSCNet" target="_blank" rel="noopener"><strong> <i style="color:#e74d3c; font-weight:600" id="githubstars_manets"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a><script>githubStars("YaoleiQi/DSCNet", function(stars) {var startext = document.getElementById("githubstars_manets"); startext.innerHTML=stars;});</script>'
   - title: Partial Vessels Annotation-based Coronary Artery Segmentation with Self-training and Prototype Learning
     authors: Zheng Zhang*, Xiaolei Zhang*, <strong>Yaolei Qi</strong>, Guanyu Yang (*Equal contribution) 
