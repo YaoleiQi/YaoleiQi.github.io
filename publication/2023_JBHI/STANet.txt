@@ -1,0 +1,10 @@
+@ARTICLE{10339841,
+  author={Qi, Xiaoming and He, Yuting and Qi, Yaolei and Kong, Youyong and Yang, Guanyu and Li, Shuo},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={STANet: Spatio-Temporal Adaptive Network and Clinical Prior Embedding Learning for 3D+T CMR Segmentation}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-13},
+  doi={10.1109/JBHI.2023.3337521}
+}
