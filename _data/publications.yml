@@ -1,14 +1,5 @@
 main:
 
-  - title: STANet: Spatio-Temporal Adaptive Network and Clinical Prior Embedding Learning for 3D+T CMR Segmentation
-    authors: Xiaoming Qi, Yuting He, <strong>Yaolei Qi</strong>, Youyong Kong, Guanyu Yang, Shuo Li
-    conference_short: JBHI
-    conference: IEEE Journal of Biomedical and Health Informatics, 2023.
-    # pdf: ./publication/2023_ICCV/DSCNet.pdf
-    # code: https://github.com/YaoleiQi/DSCNet
-    # page: ./pub_homepage/2023_ICCV/index.html
-    bibtex: ./publication/2023_JBHI/STANet.txt
-    image: ./publication/2023_JBHI/STANet.jpg
   - title: Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular Structure Segmentation
     authors: <strong>Yaolei Qi</strong>, Yuting He Xiaoming Qi, Yuan Zhang, Guanyu Yang
     conference_short: ICCV
