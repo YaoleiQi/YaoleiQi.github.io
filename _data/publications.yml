@@ -1,5 +1,14 @@
 main:
 
+  - title: FedSoda Federated cross-assessment and dynamic aggregation for Histopathology Segmentation
+    authors: Yuan Zhang, <strong>Yaolei Qi</strong>, Xiaoming Qi, LLotfi Senhadji, Yongyue Wei, Feng Chen, Guanyu Yang
+    conference_short: ICASSP
+    conference: IEEE International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP)</strong>, 2024.
+    # pdf: ./publication/2023_ICCV/DSCNet.pdf
+    # code: https://github.com/YaoleiQi/DSCNet
+    # page: ./pub_homepage/2023_ICCV/index.html
+    # bibtex: ./publication/2023_JBHI/STANet.txt
+    image: ./publication/2024_ICASSP/FedSoDa.jpg
   - title: STANet Spatio-Temporal Adaptive Network and Clinical Prior Embedding Learning for 3D+T CMR Segmentation
     authors: Xiaoming Qi, Yuting He, <strong>Yaolei Qi</strong>, Youyong Kong, Guanyu Yang, Shuo Li
     conference_short: JBHI
