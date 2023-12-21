@@ -1,0 +1,8 @@
+@misc{zhang2023fedsoda,
+      title={FedSODA Federated Cross-assessment and Dynamic Aggregation for Histopathology Segmentation}, 
+      author={Yuan Zhang and Yaolei Qi and Xiaoming Qi and Lotfi Senhadji and Yongyue Wei and Feng Chen and Guanyu Yang},
+      year={2023},
+      eprint={2312.12824},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
+}
