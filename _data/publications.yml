@@ -9,6 +9,7 @@ main:
     # page: ./pub_homepage/2023_ICCV/index.html
     bibtex: ./publication/2024_MICCAI/DSCENet.txt
     image: ./publication/2024_MICCAI/DSCENet.png
+    others: oral presentation
   - title: FedSoda Federated cross-assessment and dynamic aggregation for Histopathology Segmentation
     authors: Yuan Zhang, <strong>Yaolei Qi</strong>, Xiaoming Qi, LLotfi Senhadji, Yongyue Wei, Feng Chen, Guanyu Yang
     conference_short: ICASSP
