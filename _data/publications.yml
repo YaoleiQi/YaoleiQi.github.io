@@ -1,5 +1,15 @@
 main:
 
+  - title: DSCENet Dynamic Screening and Clinical-Enhanced Multimodal Fusion for MPNs Subtype Classification
+    authors: Yuan Zhang, <strong>Yaolei Qi</strong>, Xiaoming Qi, Yongyue Wei, Guanyu Yang
+    conference_short: MICCAI
+    conference: Medical Image Computing and Computer Assisted Intervention Society <strong>(MICCAI)</strong>, 2024.
+    pdf: ./publication/2024_MICCAI/DSCENet.pdf
+    code: https://github.com/yuanzhang7/DSCENet
+    # page: ./pub_homepage/2023_ICCV/index.html
+    bibtex: ./publication/2024_MICCAI/DSCENet.txt
+    image: ./publication/2024_MICCAI/DSCENet.png
+    others: <strong> <i style="color:#e74d3c; font-weight:600">oral presentation</i></strong>
   - title: FedSoda Federated cross-assessment and dynamic aggregation for Histopathology Segmentation
     authors: Yuan Zhang, <strong>Yaolei Qi</strong>, Xiaoming Qi, LLotfi Senhadji, Yongyue Wei, Feng Chen, Guanyu Yang
     conference_short: ICASSP

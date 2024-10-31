@@ -1,0 +1,6 @@
+@article{zhang2024dscenet,
+  title={DSCENet: Dynamic Screening and Clinical-Enhanced Multimodal Fusion for MPNs Subtype Classification},
+  author={Zhang, Yuan and Qi, Yaolei and Qi, Xiaoming and Wei, Yongyue and Yang, Guanyu},
+  journal={arXiv preprint arXiv:2407.08167},
+  year={2024}
+}
