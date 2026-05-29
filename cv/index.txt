@@ -1,0 +1,192 @@
+1:"$Sreact.fragment"
+3:I[3719,["461","static/chunks/461-a9a5d7b05a71d978.js","874","static/chunks/874-6cc630662f3664af.js","291","static/chunks/291-e39730cc9327e39b.js","177","static/chunks/app/layout-98e12b481c8411f7.js"],"ThemeProvider"]
+4:I[310,["461","static/chunks/461-a9a5d7b05a71d978.js","874","static/chunks/874-6cc630662f3664af.js","291","static/chunks/291-e39730cc9327e39b.js","177","static/chunks/app/layout-98e12b481c8411f7.js"],"LocaleProvider"]
+5:I[4574,["461","static/chunks/461-a9a5d7b05a71d978.js","874","static/chunks/874-6cc630662f3664af.js","291","static/chunks/291-e39730cc9327e39b.js","177","static/chunks/app/layout-98e12b481c8411f7.js"],"default"]
+6:I[7555,[],""]
+7:I[1295,[],""]
+8:I[2548,["461","static/chunks/461-a9a5d7b05a71d978.js","874","static/chunks/874-6cc630662f3664af.js","291","static/chunks/291-e39730cc9327e39b.js","177","static/chunks/app/layout-98e12b481c8411f7.js"],"default"]
+a:I[9665,[],"MetadataBoundary"]
+c:I[9665,[],"OutletBoundary"]
+f:I[4911,[],"AsyncMetadataOutlet"]
+11:I[9665,[],"ViewportBoundary"]
+13:I[6614,[],""]
+:HL["/_next/static/css/220751dcb2cdf23d.css","style"]
+2:T5d7,
+    try {
+      const cfg = {"enabled":true,"locales":["zh","en"],"defaultLocale":"en","mode":"auto","fixedLocale":"en","persist":true,"switcher":true,"labels":{"zh":"中文","en":"English"}};
+      const storageKey = 'locale-storage';
+      const normalize = (value) => typeof value === 'string' ? value.trim().replace('_', '-').toLowerCase() : '';
+      const matchLocale = (candidate) => {
+        const normalized = normalize(candidate);
+        if (!normalized) return null;
+        if (cfg.locales.includes(normalized)) return normalized;
+        const language = normalized.split('-')[0];
+        if (cfg.locales.includes(language)) return language;
+        return null;
+      };
+
+      let resolved = null;
+
+      if (!cfg.enabled) {
+        resolved = cfg.defaultLocale;
+      } else if (cfg.persist) {
+        resolved = matchLocale(localStorage.getItem(storageKey));
+      }
+
+      if (!resolved) {
+        if (cfg.mode === 'fixed') {
+          resolved = cfg.fixedLocale;
+        } else {
+          resolved = matchLocale(navigator.language);
+        }
+      }
+
+      if (!resolved) {
+        resolved = cfg.defaultLocale;
+      }
+
+      const root = document.documentElement;
+      root.lang = resolved;
+      root.setAttribute('data-locale', resolved);
+
+      if (cfg.persist) {
+        localStorage.setItem(storageKey, resolved);
+      }
+    } catch (e) {
+      const root = document.documentElement;
+      root.lang = 'en';
+      root.setAttribute('data-locale', 'en');
+    }
+  0:{"P":null,"b":"o6sEaoDeMdAkSbwtgBSP9","p":"","c":["","cv",""],"i":false,"f":[[["",{"children":[["slug","cv","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/220751dcb2cdf23d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"dns-prefetch","href":"https://jialeliu.com"}],["$","link",null,{"rel":"preconnect","href":"https://jialeliu.com","crossOrigin":""}],["$","link",null,{"rel":"preload","as":"font","type":"font/woff2","href":"https://jialeliu.com/fonts/georgiab.woff2","crossOrigin":""}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const theme = localStorage.getItem('theme-storage');\n                const parsed = theme ? JSON.parse(theme) : null;\n                const setting = parsed?.state?.theme || 'system';\n                const prefersDark = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                const effective = setting === 'dark' ? 'dark' : (setting === 'light' ? 'light' : (prefersDark ? 'dark' : 'light'));\n                var root = document.documentElement;\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              } catch (e) {\n                var root = document.documentElement;\n                root.classList.add('light');\n                root.setAttribute('data-theme', 'light');\n              }\n            "}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]]}],["$","body",null,{"className":"font-sans antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"config":{"enabled":true,"locales":["zh","en"],"defaultLocale":"en","mode":"auto","fixedLocale":"en","persist":true,"switcher":true,"labels":{"zh":"中文","en":"English"}},"children":[["$","$L5",null,{"items":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"Teaching","type":"page","target":"teaching","href":"/teaching"},{"title":"Awards","type":"page","target":"awards","href":"/awards"},{"title":"Services","type":"page","target":"services","href":"/services"},{"title":"CV","type":"page","target":"cv","href":"/cv"}],"siteTitle":"Yaolei Qi","enableOnePageMode":false,"i18n":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:children:props:config","itemsByLocale":{"zh":[{"title":"关于我","type":"page","target":"about","href":"/"},{"title":"论文","type":"page","target":"publications","href":"/publications"},{"title":"教学","type":"page","target":"teaching","href":"/teaching"},{"title":"奖项","type":"page","target":"awards","href":"/awards"},{"title":"服务","type":"page","target":"services","href":"/services"},{"title":"简历","type":"page","target":"cv","href":"/cv"}],"en":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"Teaching","type":"page","target":"teaching","href":"/teaching"},{"title":"Awards","type":"page","target":"awards","href":"/awards"},{"title":"Services","type":"page","target":"services","href":"/services"},{"title":"CV","type":"page","target":"cv","href":"/cv"}]},"siteTitleByLocale":{"zh":"戚耀磊","en":"Yaolei Qi"}}],["$","main",null,{"className":"min-h-screen pt-16 lg:pt-20","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L8",null,{"lastUpdated":"May 30, 2026","lastUpdatedByLocale":{"zh":"2026年5月30日","en":"May 30, 2026"},"defaultLocale":"en"}]]}]}]}]]}]]}],{"children":[["slug","cv","d"],["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",["$","$La",null,{"children":"$Lb"}],null,["$","$Lc",null,{"children":["$Ld","$Le",["$","$Lf",null,{"promise":"$@10"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","B_0lU92U8216l93sHv6Si",{"children":[["$","$L11",null,{"children":"$L12"}],null]}],null]}],false]],"m":"$undefined","G":["$13","$undefined"],"s":false,"S":true}
+14:"$Sreact.suspense"
+15:I[4911,[],"AsyncMetadata"]
+17:I[2382,["461","static/chunks/461-a9a5d7b05a71d978.js","178","static/chunks/178-595a94b9af1e67b5.js","748","static/chunks/748-65f13ebac4c71d5f.js","182","static/chunks/app/%5Bslug%5D/page-b1253b800392268a.js"],"default"]
+b:["$","$14",null,{"fallback":null,"children":["$","$L15",null,{"promise":"$@16"}]}]
+18:T83b,## 教育
+
+**东南大学**，计算机科学与工程博士，*2021年9月 – 2026年9月（预计）*  
+- 计算机科学与工程学院博士研究生
+
+**剑桥大学**，访问研究员，*2024年3月 – 2024年9月*  
+
+**东南大学**，工学硕士，*2019年9月 – 2021年9月*  
+- 硕博连读项目
+
+**东南大学**，工学学士，*2015年9月 – 2019年6月*
+
+## 科研经验
+
+**访问研究员（国家留学基金委 CSC）**  
+英国剑桥大学，应用数学与理论物理系，*2024年3月 – 2024年9月*  
+- 开展面向弱监督胶质母细胞瘤分割的数据高效学习研究
+- 探索面向有限标注医学图像分析的领域知识引导特征增强方法
+
+## 基金
+### 项目负责人
+- **冠状动脉 CCTA 标注高效分割方法研究**（*2022年*）  
+  获江苏省研究生科研与实践创新计划、中央高校基本科研业务费资助  
+  资助金额：15,000元人民币
+
+## 奖项
+
+- **国家奖学金**，2024年
+- **一等奖学金**，2020年、2022年、2023年
+
+## 教学经验
+
+**本科生指导**，东南大学  *2021年7月 – 至今*  
+- 指导计算机科学相关本科生科研工作，包括项目规划、实验设计与学术写作；支持多名学生在同行评审期刊或会议上发表论文。
+- 指导本科生团队参加中国大学生程序设计竞赛（CCPC），获全国二等奖、江苏省一等奖。
+
+## 科研服务
+
+### 审稿人
+- NeurIPS
+- CVPR
+- ICCV
+- ECCV
+- ACM MM
+- MICCAI
+- IEEE Transactions on Medical Imaging
+- Pattern Recognition
+- Computerized Medical Imaging and Graphics
+
+## 讲座
+
+**Pan-Tubular Structure Analysis**  
+中国图象图形大会（CCIG 2025），海报展示，长沙，中国，2025年
+
+**Dynamic Snake Convolution Based on Topological Geometric Constraints for Tubular Structure Segmentation**  
+VALSE，线上，2023年10月9日
+
+**Dynamic Snake Convolution Based on Topological Geometric Constraints for Tubular Structure Segmentation**  
+AITIME 青年博士说 - ICCV 2023，线上，2023年8月
+
+**Tubular Structure Analysis**  
+独墅湖会议，苏州，中国，2023年4月19:T96f,## Education
+
+**Southeast University**, Ph.D. in Computer Science and Engineering, *Sep 2021 – Sep 2026 (expected)*  
+- Ph.D. candidate in the School of Computer Science and Engineering
+
+**University of Cambridge**, Visiting Researcher, *Mar 2024 – Sep 2024*  
+
+**Southeast University**, M.E., *Sep 2019 – Sep 2021*  
+- Successive postgraduate-doctoral training program
+
+**Southeast University**, B.E., *Sep 2015 – Jun 2019*
+
+## Research Experience
+
+**Visiting Researcher (CSC)**  
+Department of Applied Mathematics and Theoretical Physics, University of Cambridge, UK, *Mar 2024 – Sep 2024*  
+- Conducted research on data-efficient learning for weakly supervised glioblastoma tumor segmentation
+- Investigated domain knowledge-guided feature enhancement methods for limited-annotation medical image analysis
+
+## Grants
+### Principal Investigator
+- **Label-efficient Coronary Artery Segmentation in CCTA** (*2022*)  
+  Funded by the Postgraduate Research & Practice Innovation Program of Jiangsu Province and the Fundamental Research Funds for the Central Universities, China  
+  Amount: 15,000 CNY
+
+## Honors and Awards
+
+- **National Scholarship**, 2024
+- **First Prize Scholarship**, 2020, 2022, 2023
+
+## Teaching and Mentoring Experience
+
+**Tutor for Undergraduate Students**, Southeast University  *Jul 2021 – Present*  
+- Mentored students in computer science research, including project planning, experimental design, and academic writing; supported several mentees in publishing papers in peer-reviewed venues.
+- Coached an undergraduate team for the China Collegiate Programming Contest, leading to a National Second Prize and Jiangsu Provincial First Prize.
+
+## Academic Services
+
+### Reviewer
+- NeurIPS
+- CVPR
+- ICCV
+- ECCV
+- ACM MM
+- MICCAI
+- IEEE Transactions on Medical Imaging
+- Pattern Recognition
+- Computerized Medical Imaging and Graphics
+
+## Selected Presentations
+
+**Pan-Tubular Structure Analysis**  
+  China Conference on Image and Graphics (CCIG 2025), Poster Presentation, Changsha, China, 2025
+
+**Dynamic Snake Convolution Based on Topological Geometric Constraints for Tubular Structure Segmentation**  
+  VALSE, Online, Oct 9, 2023
+
+**Dynamic Snake Convolution Based on Topological Geometric Constraints for Tubular Structure Segmentation**  
+  AITIME Youth PhD Talk - ICCV 2023, Online, Aug 2023
+
+**Tubular Structure Analysis**  
+  Dushuhu Conference, Suzhou, China, Apr 20239:["$","$L17",null,{"dataByLocale":{"zh":{"type":"text","config":{"type":"text","title":"简历","source":"cv.md"},"content":"$18"},"en":{"type":"text","config":{"type":"text","title":"CV","source":"cv.md"},"content":"$19"}},"defaultLocale":"en"}]
+e:null
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+16:{"metadata":[["$","title","0",{"children":"CV | Yaolei Qi"}],["$","meta","1",{"name":"author","content":"Yaolei Qi"}],["$","meta","2",{"name":"keywords","content":"Yaolei Qi,PhD,Research,Southeast University"}],["$","meta","3",{"name":"creator","content":"Yaolei Qi"}],["$","meta","4",{"name":"publisher","content":"Yaolei Qi"}],["$","meta","5",{"property":"og:title","content":"Yaolei Qi"}],["$","meta","6",{"property":"og:description","content":"Southeast University."}],["$","meta","7",{"property":"og:site_name","content":"Yaolei Qi's Academic Website"}],["$","meta","8",{"property":"og:locale","content":"en_US"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary"}],["$","meta","11",{"name":"twitter:title","content":"Yaolei Qi"}],["$","meta","12",{"name":"twitter:description","content":"Southeast University."}],["$","link","13",{"rel":"icon","href":"/favicon.svg"}]],"error":null,"digest":"$undefined"}
+10:{"metadata":"$16:metadata","error":null,"digest":"$undefined"}
